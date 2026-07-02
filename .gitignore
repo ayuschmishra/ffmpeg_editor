@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+assets/
+projects/
+cache_store/
+output/
+tests/media/
+.env
+credentials.json
+token.json

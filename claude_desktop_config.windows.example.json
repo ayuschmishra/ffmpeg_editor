@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reel": {
+      "command": "C:\\path\\to\\ffmpeg_editor\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\path\\to\\ffmpeg_editor\\server.py"]
+    }
+  }
+}
